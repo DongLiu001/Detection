@@ -8,3 +8,4 @@ change some codes
 
 Developer C add some code
 
+Dong develop some functions
